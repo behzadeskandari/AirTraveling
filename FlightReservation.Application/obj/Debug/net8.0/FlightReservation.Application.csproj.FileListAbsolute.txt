@@ -1,0 +1,15 @@
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.csproj.AssemblyReference.cache
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.AssemblyInfoInputs.cache
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.AssemblyInfo.cs
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Application.deps.json
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Application.dll
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Application.pdb
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Core.dll
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\bin\Debug\net8.0\FlightReservation.Core.pdb
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightRe.25040CAF.Up2Date
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.dll
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\refint\FlightReservation.Application.dll
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\FlightReservation.Application.pdb
+C:\Users\Afra\source\repos\AirTraveling\FlightReservation.Application\obj\Debug\net8.0\ref\FlightReservation.Application.dll
