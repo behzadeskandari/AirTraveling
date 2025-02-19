@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "f86CCBqLrfA9kJ+efPQfjBICPWJ3GE6cqp8aqWHvTLY=",
+  "Hash": "a2jVmgf9PHo9Pi8Jwc9oAnOvvHHmx13saro60Ph4fqU=",
   "Source": "FlightReservation.API",
   "BasePath": "_content/FlightReservation.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

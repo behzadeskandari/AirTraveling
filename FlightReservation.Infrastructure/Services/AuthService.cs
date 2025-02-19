@@ -78,14 +78,13 @@ namespace FlightReservation.Infrastructure.Services
 
             user = new ApplicationUser
             {
-                UserName = registerDto.UserName,
+                UserName = registerDto.Email,
                 Email = registerDto.Email,
                 FirstName = registerDto.FirstName,
                 LastName = registerDto.LastName,
             };
 
-            var result = await _userManager.c
-            //var result = await _userManager.CreateAsync(user);
+            var result = await _userManager.CreateAsync(user, registerDto.Password);
             if (!result.Succeeded)
             {
                 return Result.Fail(result.Errors.Select(e => e.Description));

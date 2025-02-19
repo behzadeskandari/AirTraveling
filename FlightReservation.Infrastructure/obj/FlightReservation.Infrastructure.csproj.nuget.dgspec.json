@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj": {}
+    "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj": {
+    "D:\\repos\\Air\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj",
+        "projectUniqueName": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj",
         "projectName": "FlightReservation.Application",
-        "projectPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj",
-        "packagesPath": "C:\\Users\\Afra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Application\\obj\\",
+        "projectPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj",
+        "packagesPath": "C:\\Users\\105624033\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Afra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\105624033\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj": {
-                "projectPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj"
+              "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj": {
+                "projectPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj"
               }
             }
           }
@@ -43,7 +42,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -82,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj": {
+    "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj",
+        "projectUniqueName": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj",
         "projectName": "FlightReservation.Core",
-        "projectPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj",
-        "packagesPath": "C:\\Users\\Afra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\obj\\",
+        "projectPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj",
+        "packagesPath": "C:\\Users\\105624033\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Afra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\105624033\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,7 +113,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -121,7 +125,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -152,24 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj": {
+    "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj",
+        "projectUniqueName": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj",
         "projectName": "FlightReservation.Infrastructure",
-        "projectPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Afra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Infrastructure\\obj\\",
+        "projectPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\105624033\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Afra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\105624033\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -178,18 +188,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj": {
-                "projectPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj"
+              "D:\\repos\\Air\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj": {
+                "projectPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Application\\FlightReservation.Application.csproj"
               },
-              "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj": {
-                "projectPath": "C:\\Users\\Afra\\source\\repos\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj"
+              "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj": {
+                "projectPath": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Core\\FlightReservation.Core.csproj"
               }
             }
           }
@@ -198,7 +207,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -257,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\Air\\AirTraveling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|d:\\repos\\air\\airtraveling\\flightreservation.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|solutionrelative:flightreservation.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8804D5B-03D9-4F73-B1A1-881E4E6BB893}|FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj|d:\\repos\\air\\airtraveling\\flightreservation.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8804D5B-03D9-4F73-B1A1-881E4E6BB893}|FlightReservation.Infrastructure\\FlightReservation.Infrastructure.csproj|solutionrelative:flightreservation.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|d:\\repos\\air\\airtraveling\\flightreservation.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|solutionrelative:flightreservation.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|d:\\repos\\air\\airtraveling\\flightreservation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|solutionrelative:flightreservation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|d:\\repos\\air\\airtraveling\\flightreservation.api\\flightreservation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|solutionrelative:flightreservation.api\\flightreservation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|d:\\repos\\air\\airtraveling\\flightreservation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB121877-B53F-4628-B33A-1F52AAC53244}|FlightReservation.API\\FlightReservation.API.csproj|solutionrelative:flightreservation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\Program.cs",
+              "RelativeDocumentMoniker": "FlightReservation.API\\Program.cs",
+              "ToolTip": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\Program.cs",
+              "RelativeToolTip": "FlightReservation.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:04:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightReservation.API.http",
+              "DocumentMoniker": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\FlightReservation.API.http",
+              "RelativeDocumentMoniker": "FlightReservation.API\\FlightReservation.API.http",
+              "ToolTip": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\FlightReservation.API.http",
+              "RelativeToolTip": "FlightReservation.API\\FlightReservation.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-19T07:52:05.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightReservation.API\\appsettings.json",
+              "ToolTip": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\appsettings.json",
+              "RelativeToolTip": "FlightReservation.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T07:50:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FlightReservation.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "D:\\repos\\Air\\AirTraveling\\FlightReservation.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "FlightReservation.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:50:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FlightReservation.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FlightReservation.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:50:12.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\Startup.cs",
+              "RelativeDocumentMoniker": "FlightReservation.API\\Startup.cs",
+              "ToolTip": "D:\\repos\\Air\\AirTraveling\\FlightReservation.API\\Startup.cs",
+              "RelativeToolTip": "FlightReservation.API\\Startup.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:50:06.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

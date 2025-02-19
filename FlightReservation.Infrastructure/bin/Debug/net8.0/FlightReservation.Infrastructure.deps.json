@@ -1328,7 +1328,10 @@
           "MediatR": "12.4.1"
         },
         "runtime": {
-          "FlightReservation.Application.dll": {}
+          "FlightReservation.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FlightReservation.Core/1.0.0": {
@@ -1337,7 +1340,10 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.13"
         },
         "runtime": {
-          "FlightReservation.Core.dll": {}
+          "FlightReservation.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

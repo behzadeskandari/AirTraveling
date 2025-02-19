@@ -13,6 +13,7 @@ namespace FlightReservation.API.Controllers
 
         public AuthController(IAuthService authService)
         {
+
             _authService = authService;
         }
 
